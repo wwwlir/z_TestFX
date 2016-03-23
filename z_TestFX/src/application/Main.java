@@ -39,7 +39,6 @@ public class Main extends Application {
         personData.add(new Person("Ruth", "Mueller"));
         personData.add(new Person("Heinz", "Kurz"));
         personData.add(new Person("Cornelia", "Meier"));
-        personData.add(new Person("Werner", "Meyer"));
 	}
 	
 	public static void main(String[] args) {
